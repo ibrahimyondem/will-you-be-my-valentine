@@ -9,7 +9,9 @@ This project is intentionally lightweight, and easy to share. It focuses on simp
 ---
 
 ## 🌸 Share it with your Valentine
-Live version:
+## Live site: 👉 https://ibrahimyondem.github.io/will-you-be-my-valentine/
+
+## Alternative Version
 👉 https://willyoubemyvalentineweb.netlify.app/
 
 ## ✨ Features
