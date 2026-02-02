@@ -10,7 +10,7 @@ This project is intentionally lightweight, and easy to share. It focuses on simp
 
 ## 🌸 Demo
 Live version:
-👉 
+👉 https://willyoubemyvalentineweb.netlify.app/
 
 ## ✨ Features
 
@@ -34,7 +34,7 @@ Live version:
 
 ![Landing Page](/images/landing.png)
 ![Yes](/images/yes.png)
-![No](/images/no.png)
+![Maybe](/images/maybe.png) 
 
 ---
 
