@@ -8,7 +8,7 @@ This project is intentionally lightweight, and easy to share. It focuses on simp
 
 ---
 
-## 🌸 Demo
+## 🌸 Share it with your Valentine
 Live version:
 👉 https://willyoubemyvalentineweb.netlify.app/
 
@@ -32,8 +32,11 @@ Live version:
 
 ## 🖼️ Screenshots
 
+## Landing Page
 ![Landing Page](/images/landing.png)
+## Yes Page
 ![Yes](/images/yes.png)
+## Maybe Page
 ![Maybe](/images/maybe.png) 
 
 ---
