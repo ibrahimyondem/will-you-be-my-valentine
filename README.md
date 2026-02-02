@@ -1,5 +1,6 @@
-# 💌 Will You Be My Valentine?
+#  Will You Be My Valentine? 💌
 
+Will You Be My Valentine?
 A small and heartfelt web project made to ask a simple but meaningful question:
 
 **Will you be my Valentine?**
