@@ -41,12 +41,12 @@ Live version:
 
 ---
 
-🚀 How to Run Locally
+## 🚀 How to Run Locally
 
-Clone the repository
+- Clone the repository
 
-Open index.html in your browser
+- Open index.html in your browser
 
-Enjoy!
+- Enjoy!
 
 ---
