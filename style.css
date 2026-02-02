@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background: #bbabae;
+  font-family: Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.container {
+  text-align: center;
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  width: 550px; 
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+#question {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 32px;
+  line-height: 1.4;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+
+#elmoGif {
+  width: 350px;
+  height: 250px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+
+.buttons {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+
+button {
+  padding: 12px 24px;
+  font-size: 18px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+#yesBtn {
+  background: #ad354b;
+  color: white;
+}
+
+#noBtn {
+  background: #ccc;
+}
+
+#maybeBtn {
+    background: #4da6ff;
+    color: white;
+}
+
+#footer {
+  margin-top: 40px;
+  background-color: #eeeeee;
+  padding: 10px 16px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 30px;
+}
+
